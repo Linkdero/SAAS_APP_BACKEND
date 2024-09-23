@@ -1,0 +1,12 @@
+c:\Users\anderson.morales\Desktop\SAAS_APP_BACKEND\src\main\java\com\saas\SAAS_APP_BACKEND\config\SecurityConfig.java
+c:\Users\anderson.morales\Desktop\SAAS_APP_BACKEND\src\main\java\com\saas\SAAS_APP_BACKEND\controller\GYM\GymUsuariosController.java
+c:\Users\anderson.morales\Desktop\SAAS_APP_BACKEND\src\main\java\com\saas\SAAS_APP_BACKEND\controller\HomeController.java
+c:\Users\anderson.morales\Desktop\SAAS_APP_BACKEND\src\main\java\com\saas\SAAS_APP_BACKEND\controller\PublicController.java
+c:\Users\anderson.morales\Desktop\SAAS_APP_BACKEND\src\main\java\com\saas\SAAS_APP_BACKEND\entity\GYM\GymUsuarios.java
+c:\Users\anderson.morales\Desktop\SAAS_APP_BACKEND\src\main\java\com\saas\SAAS_APP_BACKEND\entity\SecurityUser.java
+c:\Users\anderson.morales\Desktop\SAAS_APP_BACKEND\src\main\java\com\saas\SAAS_APP_BACKEND\entity\User.java
+c:\Users\anderson.morales\Desktop\SAAS_APP_BACKEND\src\main\java\com\saas\SAAS_APP_BACKEND\repository\GYM\GymUsuariosRepository.java
+c:\Users\anderson.morales\Desktop\SAAS_APP_BACKEND\src\main\java\com\saas\SAAS_APP_BACKEND\repository\UserRepository.java
+c:\Users\anderson.morales\Desktop\SAAS_APP_BACKEND\src\main\java\com\saas\SAAS_APP_BACKEND\SaasAppBackendApplication.java
+c:\Users\anderson.morales\Desktop\SAAS_APP_BACKEND\src\main\java\com\saas\SAAS_APP_BACKEND\service\GYM\GymUsuariosService.java
+c:\Users\anderson.morales\Desktop\SAAS_APP_BACKEND\src\main\java\com\saas\SAAS_APP_BACKEND\serviceimpl\UserDetailsServiceImpl.java

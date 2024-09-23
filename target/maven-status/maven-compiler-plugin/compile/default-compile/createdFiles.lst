@@ -1,0 +1,12 @@
+com\saas\SAAS_APP_BACKEND\service\GYM\GymUsuariosService.class
+com\saas\SAAS_APP_BACKEND\entity\GYM\GymUsuarios.class
+com\saas\SAAS_APP_BACKEND\repository\UserRepository.class
+com\saas\SAAS_APP_BACKEND\serviceimpl\UserDetailsServiceImpl.class
+com\saas\SAAS_APP_BACKEND\SaasAppBackendApplication.class
+com\saas\SAAS_APP_BACKEND\controller\HomeController.class
+com\saas\SAAS_APP_BACKEND\config\SecurityConfig.class
+com\saas\SAAS_APP_BACKEND\repository\GYM\GymUsuariosRepository.class
+com\saas\SAAS_APP_BACKEND\controller\PublicController.class
+com\saas\SAAS_APP_BACKEND\entity\User.class
+com\saas\SAAS_APP_BACKEND\entity\SecurityUser.class
+com\saas\SAAS_APP_BACKEND\controller\GYM\GymUsuariosController.class
