@@ -78,6 +78,12 @@
 			<artifactId>spring-session-core</artifactId>
 			<version>3.0.0</version> <!-- Ajusta la versión según sea necesario -->
 		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>4.0.1</version> <!-- O la versión más reciente -->
+			<scope>provided</scope>
+		</dependency> 
 	</dependencies>
 	<build>
 		<plugins>

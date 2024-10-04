@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 import com.saas.SAAS_APP_BACKEND.entity.SAAS_APP.RRHH.RrhhUsuarios;
 
 @Repository
-public interface RrhhUsuariosRepository extends JpaRepository<RrhhUsuarios, Long>{
-    //JpaRepository ya incluye métodos como findAll() y findById()
-} 
+public interface RrhhUsuariosRepository extends JpaRepository<RrhhUsuarios, Long> {
+    RrhhUsuarios findByUsername(String username); 
+}
